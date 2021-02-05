@@ -10,7 +10,3 @@ for(var i = 0; i < 4; i++) {
 		helloSpeaker.speak(name);
 	}
 }
-// for(var i = 0; i < 4; i++) {
-// 	name = names[i]
-// 	console.log(name[0]);
-// }
